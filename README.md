@@ -4,7 +4,7 @@ This repository contains a program, developed by students of the first semester 
 
 ### Some functions we expect it to have
 
-Here are some funionalities we expect our program to be able to execute
+Here are some functionalities we expect our program to be able to execute
 
 ```markdown
 **Given the equations of a system**
