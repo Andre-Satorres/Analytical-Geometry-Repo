@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Analytical Geometry Repo
 
-You can use the [editor on GitHub](https://github.com/Andre-Satorres/Analytical-Geometry-Repo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This repository contains a program, developed by students of the first semester of Computer Sciences at UNICAMP, that performs some of the subjects studied in the matter of Analytical Geometry, and it's developed in the language studied simultaneously, in the programming matter.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Some functions we expect it to have
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Here are some funionalities we expect our program to be able to execute
 
 ```markdown
-Syntax highlighted code block
+**Given the equations of a system**
 
-# Header 1
-## Header 2
-### Header 3
+- Create the n-dimensional array containing the coefficients of the system
+- Find the reduced staggered matrix using Gauss-Jordan method
+- Solve the system (also informing whether it is and undetermined possible system or impossible system)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+**Given the values of a matrix**
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+- Find the reverse matrix
+- Calculate that matrix determinant
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Purpose
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Andre-Satorres/Analytical-Geometry-Repo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This project will be kinda fun and also can help us to learn AG and Python
